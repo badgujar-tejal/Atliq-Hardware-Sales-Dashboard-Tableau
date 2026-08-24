@@ -30,7 +30,7 @@ The primary purpose of this dashboard is to **analyze the profitability of hardw
 
 ### 4. Account Valuation / Customer Profit Breakdown 🤝
 * **Top Performer:** **Leader** stands out as the most profitable account, capturing a **7.54% margin** (1,246,643 profit on 16.52M revenue).
-* **The Volume Trap:** *Nixon* generates a massive 43.89M in revenue but yields just 1,785,811 in profit due to a compressed **4.07% margin**.
+* **The Volume Trap:** **Nixon** generates a massive 43.89M in revenue but yields just 1,785,811 in profit due to a compressed **4.07% margin**.
 
 
 ---
