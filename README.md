@@ -4,9 +4,9 @@
 The primary purpose of this dashboard is to **analyze the profitability of hardware sales** rather than just top-line volume. It tracks actual profit margins across different cities, monitors profitability over time, evaluates individual customer financial value, and breaks down sales performance by distribution channels.
 
 ### 🔑 Key Performance Metrics
-* **Total Revenue:** The company generated a lifetime total of 984.81M in sales.
-* **Total Profit:** Out of that revenue, the actual profit kept is 24.66M. 
-* **Overall Profit Margin:** The business operates on a very thin overall margin of roughly 2.5%.
+* **Total Revenue:** The company generated a lifetime total of **984.81M** in sales.
+* **Total Profit:** Out of that revenue, the actual profit kept is **24.66M**. 
+* **Overall Profit Margin:** The business operates on a very thin overall margin of roughly **2.5%**.
 
 ---
 
@@ -32,10 +32,6 @@ The primary purpose of this dashboard is to **analyze the profitability of hardw
 * **Top Performer:** **Leader** stands out as the most profitable account, capturing a **7.54% margin** (1,246,643 profit on 16.52M revenue).
 * **The Volume Trap:** **Nixon** generates a massive 43.89M in revenue but yields just 1,785,811 in profit due to a compressed **4.07% margin**.
 
-## Dashboard Preview
-![Atliq-Hardware-Sales-Dashboard-Tableau](Atliq%20Hardware%20Sales%20Dashboard.png)
-
-
 
 ---
 
@@ -43,3 +39,8 @@ The primary purpose of this dashboard is to **analyze the profitability of hardw
 1. **Optimize High-Volume Hubs:** Renegotiate commercial terms or adjust pricing structures in Delhi NCR to stop the margin drain.
 2. **Replicate Efficient Models:** Reallocate operational focus and marketing spend toward smaller, high-margin tier cities like Surat and Patna.
 3. **Restructure Client Contracts:** Re-evaluate discount tiers for high-revenue, low-margin buyers like *Nixon* to align them with company profitability targets.
+
+
+
+## Dashboard Preview
+![Atliq-Hardware-Sales-Dashboard-Tableau](Atliq%20Hardware%20Sales%20Dashboard.png)
